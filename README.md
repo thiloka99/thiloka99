@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Thiloka Sammani Fernando</h1>
 <h3 align="center">I am java developer</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiloka99&show_icons=true) 
+![Thiloka's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiloka99&show_icons=true&theme=transparent)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
